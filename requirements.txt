@@ -1,0 +1,2 @@
+# waybackparams uses only the Python standard library — no external dependencies.
+# Python 3.8+

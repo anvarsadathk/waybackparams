@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+env/
+
+# Secrets / env — never commit
+.env
+*.env
+secrets.*
+*.pem
+*.key
+
+# Tool output
+output/
+results/
+*.log
+*.out
+*.json.bak
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
